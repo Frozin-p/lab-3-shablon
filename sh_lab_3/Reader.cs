@@ -1,5 +1,4 @@
-﻿
-namespace shablonP_3;
+﻿namespace sh_lab_3;
 
 public class Reader : IReader
 {
